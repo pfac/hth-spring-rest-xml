@@ -1,6 +1,10 @@
 HowTheHell: Spring REST Web Service with XML
 ============================================
 
+> _**This project is now retired**._
+>
+> _I created this project back in 2014 to be a reference for me and the community. I have long since stopped working with Java in general and Spring in particular._
+
 As of version 4 of the Spring Framework, creating a web service that responds with JSON is very simple with Spring MVC ([tutorial][json-tutorial]). Yet, the same does not happen with XML.
 
 This project aims to provide a sample configuration of such an web service, using [JAXB][jaxb] for marshalling.
